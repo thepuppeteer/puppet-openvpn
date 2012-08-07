@@ -1,4 +1,4 @@
-puppet-openvpn
-==============
-
 OpenVPN Puppet module
+=====================
+
+TODO Add info.
